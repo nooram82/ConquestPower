@@ -1,0 +1,7 @@
+name: conquest
+version: '${project.version}'
+main: org.conquestmc.ConquestPlugin
+api-version: '1.19'
+commands:
+  power:
+    description: controls and displays power

@@ -1,0 +1,16 @@
+starting-power: 50
+power-loss-on-death: 10
+power-gain-amounts:
+  DEFAULT: 1
+  PLAYER: 5
+  SKELETON: 1.5
+  BLAZE: 2
+  WITHER: 20
+  ENDER_DRAGON: 50
+messages:
+  power-gain: '<gold>ᴘᴏᴡᴇʀ ɢᴀɪɴᴇᴅ! +🗡 <power>'
+  power-loss: '<red>ᴘᴏᴡᴇʀ ʟᴏsᴛ! -🗡 <power>'
+  power-info:
+    - '<gold><bold>ᴄᴜʀʀᴇɴᴛ ᴘᴏᴡᴇʀ |<yellow></bold> <power>'
+    - '<gray><bold>!</bold> ᴘᴏᴡᴇʀ ɪs ᴀ ғᴜɴᴅᴀᴍᴇɴᴛᴀʟ ᴄᴜʀʀᴇɴᴄʏ. ᴋɪʟʟ ᴘʟᴀʏᴇʀs ᴀɴᴅ ᴍᴏʙs ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ!'
+  power-info-other: '<gold><bold>{player_name} ᴄᴜʀʀᴇɴᴛ ᴘᴏᴡᴇʀ |<yellow></bold> <color>🗡 <power>'
